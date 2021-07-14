@@ -1,1 +1,1 @@
-"# QANinja-Week" 
+# QANinja-Week
